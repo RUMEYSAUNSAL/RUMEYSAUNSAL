@@ -23,3 +23,6 @@ I'm a data analyst with a focus on data analysis, visualization, and exploration
 I strive to learn a little more every day and enhance my skills. Working on new projects and dealing with different datasets is exciting for me!
 
 Thank you for visiting my profile. For more information and projects, check out my portfolio.
+## Tools and Languages 
+
+POSTGRESQL,EXCEL, MS OFFICE, PYTHON, POWER BI
